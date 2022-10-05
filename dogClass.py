@@ -1,5 +1,6 @@
 
-Class Dog:
+
+class Dog:
 
     def __init__(self, name, age):
 
@@ -8,5 +9,6 @@ Class Dog:
     
 
     def who(): 
-        return self.name
+        return .name
+
 
